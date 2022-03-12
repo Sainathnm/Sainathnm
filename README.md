@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sainathnm
 - 👀 I’m interested in : Developer roles🙌😊
-- 🌱 I’m currently learning: Core Java, spring boot, SQL, Javascript, HTML5, CSS.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: Core Java, Python, spring boot, SQL, Javascript, HTML5, CSS.
+- 💞️ I’m looking to collaborate on ... Python projects
 - 📫 How to reach me : 
      My gmail📂: nani.sainath97@gmail.com
      WhatsApp📱: 7780498674
