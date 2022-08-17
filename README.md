@@ -2,7 +2,7 @@
 - 
 
 - 📫 How to reach me : 
-     My gmail📂: nani.sainath97@gmail.com
+     My gmail📂: sainath@swarmhr.com
      WhatsApp📱: 7780498674
 
 <!---
